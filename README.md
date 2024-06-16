@@ -1,7 +1,7 @@
 # Hello, how are you? 👋 I'm Milagros Seffino
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40Miliseff-black?style=flat&logo=github)](https://github.com/Miliseff)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40Miliseff-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Miliseff)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40Miliseff-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/milagros-seffino)
 
 ## About Me
 
